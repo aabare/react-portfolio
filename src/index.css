@@ -11,19 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
 /* my added css */
 *  {
-  background: green;
+  background: white;
   font-family: 'Courier New', Courier, monospace;
   box-sizing: border-box;
 }
 
-
 p {
   font-size: 22px;
-  color: white;
+  color: black;
   font-weight: normal;
-  font-family: 'Courier New', Courier, monospace
+  font-family: 'Courier New', Courier, monospace;
 }
 
 h1 {
@@ -31,12 +31,14 @@ h1 {
   padding: 10px;
   color: #660033;
   font-weight: normal;
-  font-family: 'Courier New', Courier, monospace
+  font-family: 'Courier New', Courier, monospace;
 }
 
 
+
 #myImage {
-  margin: auto 70px;
+  width: 20%;
+  margin: 0px;
 }
 
 #about-container, #image-container, .education-container {
@@ -46,12 +48,12 @@ h1 {
 .key-title, .resume, .name, .title, .contact, .education {
   font-weight: normal;
   color: #660033;
-  font-family: 'Courier New', Courier, monospace
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .name {
   font-size: 4rem;
-  color: white;
+  color: #660033;
   display: flex;
   justify-content: center;
   align-content: center;
@@ -72,46 +74,45 @@ h1 {
 }
 
 .card {
-  background-color: black;
+  background-color: white;
   border-radius: 2px;
   height: 525px;
   margin: 1rem;
+  justify-content: space-evenly;
   position: relative;
   width: 325px;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
   text-align: left;
-  color: black;
+  overflow: hidden;
 }
 
 .card > .img-container {
-  height: 50%;
   overflow: hidden;
   text-align: center;
   border-radius: 10px;
-  background-color: black;
+  background-color: white;
 }
 .card > .img-container > img {
   width: 100%;
-  padding: 25px;
-  background-color: midnightblue;
+  padding: 10px;
+  background-color: white;
 }
 
 .card > .content {
-  padding-right: 1rem;
   font-size: 18px;
-  background-color: midnightblue;
-  color: white;
+  background-color: white;
+  color: black;
   font-weight: normal;
 }
 
 .card > .content > ul {
   list-style-type: none;
-  background-color: black;
+  background-color: white;
 }
 
 .card > .content > ul > li {
   margin-top: 18px;
-  background-color: black;
+  background-color: white;
 }
 
 .wrapper {
@@ -131,32 +132,34 @@ h1 {
 } */
 
 .icon {
-  padding: 10px;
+  width: 30%;
+  padding: -50px 20px;
 }
 
 .nav {
   justify-content: flex-end;
   font-size: 24px;
+  list-style: none;
 }
 
 #port-icon {
-  background-color: white;
-  margin: auto 0px;
-  width: 30%;
   justify-content: center;
+  width: 60%;
+  background-color: white;
+  margin: auto 10px;
 }
 
 .project-title {
-  background-color: black;
+  background-color: white;
   font-weight: normal;
-  font-family: 'Courier New', Courier, monospace
+  font-family: 'Courier New', Courier, monospace;
 
 }
 
 .project-description {
-  background-color: black;
-  font-weight: normalal;
-  color: white;
+  background-color: white;
+  font-weight: normal;
+  color: #660033;
 }
 
 .project-icons {
@@ -166,10 +169,12 @@ h1 {
   align-content: center;
 }
 
+
+
 #contact-form {
   margin: 15px 500px;
   font-size: 18px;
-  color: white;
+  color: black;
   font-weight: normal;
 }
 
@@ -191,18 +196,20 @@ h1 {
 }
 
 .nav-link, .link, .btn {
-  color: white;
+  color: #660033;
   font-weight: normal;
+  text-decoration: none;
+  list-style: none;
 }
 
 .nav-link:hover, .link:hover {
-  color: midnightblue;
+  color: black;
   font-weight: normal;
   text-decoration: none;
 }
 
 .active {
-  color: midnightblue;
+  color: black;
 }
 
 .banner {
@@ -229,19 +236,19 @@ h1 {
   }
 
   .image {
-    width: 200%;
-    height: 100%;
+    width: 20%;
+    height: 20%;
   }
 
   .name {
     font-size: 35px;
-    color: white;
+    color: #660033;
     letter-spacing: normal;
   }
   
   .job {
     font-size: 30px;
-    color: white;
+    color: #660033;
   }
 
   .nav {
@@ -251,6 +258,7 @@ h1 {
 
   .contact-icons, .icon-text {
     margin: auto 50%; 
+    width: 10%;
   }
   
 }

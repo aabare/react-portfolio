@@ -19,11 +19,11 @@ function ContactForm() {
             </Col>
 
             <Col lg={3} md={12}>
-            <a href="mailto:a.6942@yahoo.com"><img src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/2x/external-email-interface-kiranshastry-solid-kiranshastry.png" alt="mail-logo"/></a><p class="icon-text">email</p>
+            <a href="mailto:a.6942@yahoo.com"><img src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/2x/external-email-interface-kiranshastry-solid-kiranshastry.png" alt="mail-logo" class="icon"/></a><p class="icon-text">email</p>
             </Col>
 
             <Col lg={3} md={12}>
-            <a href={Resume} download><img src="https://img.icons8.com/external-prettycons-solid-prettycons/344/external-resume-business-and-finance-prettycons-solid-prettycons.png" alt="resume" /></a><p class="icon-text">Resume</p>
+            <a href={Resume} download><img src="https://img.icons8.com/external-prettycons-solid-prettycons/344/external-resume-business-and-finance-prettycons-solid-prettycons.png" alt="resume" class="icon"/></a><p class="icon-text">Resume</p>
             </Col>
         </Row>
         </div>

@@ -5,18 +5,16 @@
         "image": "https://user-images.githubusercontent.com/88364269/136726599-4a616bb7-0983-4aba-b47a-59912e7363ff.png",
         "github": "https://github.com/aabare/buzz-trivia",
         "deployedapp": "https://manolo2manolo.github.io/Project-1-Quiz-Game/index.html",
-        "description": "A fun trivia game to give you a break from everyday life.",
-        "skills": "HTML | CSS | JavaScript | Giphy | Bootstrap | "
+        "description": "A fun trivia game to give you a break from everyday life."
 
     },
     {
         "id": 2,
         "name": "Run Buddy",
-        "image": "https://github.com/aabare/run-buddy/blob/main/assets/images/hero-bg.jpg",
+        "image": "https://raw.githubusercontent.com/aabare/run-buddy/main/assets/images/hero-bg.jpg",
         "github": "https://github.com/aabare/run-buddy",
         "deployedapp": "https://aabare.github.io/run-buddy/",
-        "description": "A fitness app that lets you make healthy choices and lets you work with trainers",
-        "skills": "HTML | CSS"
+        "description": "A fitness app that lets you make healthy choices and lets you work with trainers"
 
     },
     {
@@ -25,9 +23,7 @@
         "image": "https://user-images.githubusercontent.com/69539559/144773101-2c8414d0-a272-4d14-8867-5c94237916d3.png",
         "github": "https://github.com/aabare/EntertainmentReviewListProject",
         "deployedapp": "https://entertainmentreview.herokuapp.com/",
-        "description": "A blog where you can review your favorite things in entertainment.",
-        "skills": "HTML | CSS | JavaScript | Handlebars"
-
+        "description": "A blog where you can review your favorite things in entertainment."
     },
     {
         "id": 4,
@@ -35,7 +31,6 @@
         "image": "https://user-images.githubusercontent.com/88077451/140680348-64d0c9f5-2351-4dac-8dd5-9c2d475eb3cd.png",
         "github": "https://github.com/aabare/note-taker",
         "deployedapp": "https://intense-forest-57271.herokuapp.com/",
-        "description": "A simple note taker app that lets you create, save, and delete notes.",
-        "skills": "Node | Express | jQuery"
+        "description": "A simple note taker app that lets you create, save, and delete notes."
     }
 ]
