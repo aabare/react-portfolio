@@ -32,5 +32,21 @@
         "github": "https://github.com/aabare/note-taker",
         "deployedapp": "https://intense-forest-57271.herokuapp.com/",
         "description": "A simple note taker app that lets you create, save, and delete notes."
+    },
+    {
+        "id": 5,
+        "name": "Tech Blog",
+        "image": "https://user-images.githubusercontent.com/88077451/151268766-3d95c0c3-1a1e-46c2-ad31-5c39c73718bc.png",
+        "github": "https://github.com/aabare/techblog",
+        "deployedapp": "https://immense-sands-98028.herokuapp.com/",
+        "description": "A simple blog that lets users post, comment, and reply about any tech they want."
+    },
+    {
+        "id": 6,
+        "name": "Work Day Scheduler",
+        "image": "https://user-images.githubusercontent.com/88077451/134829807-a9e44449-27b6-4966-9508-405cdfeb0df8.png",
+        "github": "https://github.com/aabare/scheduler",
+        "deployedapp": "https://aabare.github.io/scheduler/",
+        "description": "This is an app that lets you plan out your work day."
     }
 ]
