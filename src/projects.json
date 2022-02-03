@@ -48,5 +48,13 @@
         "github": "https://github.com/aabare/scheduler",
         "deployedapp": "https://aabare.github.io/scheduler/",
         "description": "This is an app that lets you plan out your work day."
+    },
+    {
+        "id": 7,
+        "name": "Retro Gaming Store",
+        "image": "https://user-images.githubusercontent.com/88077451/152273252-51eebe31-93a5-45f0-b35d-a38a80491c2d.png",
+        "github": "https://github.com/aabare/Retro-Gaming-Store",
+        "deployedapp": "https://retro-gaming-store-abm.herokuapp.com/",
+        "description": "An online shop that lets you purchase retro games."
     }
 ]
